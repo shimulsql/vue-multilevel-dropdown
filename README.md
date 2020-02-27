@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
 Vue MLDM
-<img src="https://raw.githubusercontent.com/shimulsql/vue-multilevel-dropdown/master/docs/version.svg" alt="">
-</p>
+<img src="./docs/version.svg" alt="">
+</h1>
 
 ## Multilevel dropdown menu generator
 
